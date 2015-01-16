@@ -1,0 +1,11 @@
+{
+  "name": "willa-ui",
+  "theme": "ui",
+  "version": "0.2.0",
+  "description": "From Demon Willa ui for Atom",
+  "license": "MIT",
+  "repository": "https://github.com/fromdemon/willa-atom-ui",
+  "engines": {
+    "atom": ">0.40.0"
+  }
+}
